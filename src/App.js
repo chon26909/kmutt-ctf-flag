@@ -26,9 +26,6 @@ const App = () => {
         </div>
       );
 
-      // else {
-      //   return <div className={target_number.includes(item) ? "a d" : "a a"} key={item}>{item}</div>;
-      // }
     });
   };
 

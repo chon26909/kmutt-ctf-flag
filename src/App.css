@@ -20,13 +20,13 @@
   color: white;
 }
 .game .a { 
-  background-color: transparent;
+  background-color: rgb(255, 255, 255);;
 }
 .game .b { 
-  background-color: transparent;
+  background-color: rgb(255, 255, 254);
 }
 .game .c { 
-  background-color: transparent;
+  background-color: rgb(255, 255, 253);;
   font-size: 18px;
   font-weight: 700;
 }
