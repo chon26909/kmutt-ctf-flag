@@ -16,7 +16,7 @@
   height: 30px;
   color: white;
 }
-.game .a { 
+/* .game .a { 
 
 }
 .game .b { 
@@ -24,13 +24,15 @@
 }
 .game .c { 
 
-}
+} */
 .game .d { 
   background-color: white;
+  font-size: 20px;
+  font-weight: 700;
 }
 
 
-/* .game .a { 
+.game .a { 
   background-color: orange;
 }
 .game .b { 
@@ -38,5 +40,5 @@
 }
 .game .c { 
   background-color: red;
-} */
+}
 

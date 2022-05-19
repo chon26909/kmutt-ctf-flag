@@ -19,6 +19,6 @@ const target_word = [
   ...charecter_4,
 ];
 
-const target_number = [2, 6, 909];
+const target_number = [26, 909];
 
 export { target_word, target_number, list_number };
