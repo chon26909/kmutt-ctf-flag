@@ -1,17 +1,13 @@
 .App {
   text-align: center;
-}
-.App h1 { 
   user-select: none;
 }
-
 .game { 
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(5 ,1fr);
   max-width: 700px;
   width: 100%;
-  text-align: center;
   font-size: 14px;
 }
 .game div { 
@@ -26,7 +22,8 @@
   background-color: rgb(255, 255, 254);
 }
 .game .c { 
-  background-color: rgb(255, 255, 253);;
+  background-color: darkgreen;
+  display: none;
   font-size: 18px;
   font-weight: 700;
 }
