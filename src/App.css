@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.App h1 { 
+  user-select: none;
+}
 
 .game { 
   margin: 0 auto;
@@ -16,23 +19,20 @@
   height: 30px;
   color: white;
 }
-/* .game .a { 
-
+.game .a { 
+  background-color: transparent;
 }
 .game .b { 
-
+  background-color: transparent;
 }
 .game .c { 
-
-} */
-.game .d { 
-  background-color: white;
-  font-size: 20px;
+  background-color: transparent;
+  font-size: 18px;
   font-weight: 700;
 }
 
 
-.game .a { 
+/* .game .a { 
   background-color: orange;
 }
 .game .b { 
@@ -40,5 +40,5 @@
 }
 .game .c { 
   background-color: red;
-}
+} */
 
